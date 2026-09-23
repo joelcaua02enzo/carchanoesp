@@ -1,3 +1,5 @@
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/ef4c7511-b5f1-4991-b999-2ebdc45ccbb4" />
+
 # Crachá GitHub com ESP32-S3
 
 Crachá digital que exibe suas informações do GitHub em uma tela TFT 2.8 polegadas com touch. Conecta-se ao Wi-Fi, consulta a API do GitHub e mostra perfil, estatísticas, linguagens mais usadas e QR Code para o seu perfil.
@@ -73,8 +75,8 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## Autor
 
-Joel Dimais
-GitHub: https://github.com/joeldimais
+joel caua
+GitHub: https://github.com/joelcaua02enzo
 Email: joel@email.com
 
 ## Agradecimentos
@@ -83,4 +85,4 @@ Agradecimentos a Bodmer pela biblioteca TFT_eSPI, a Paul Stoffregen pela XPT2046
 
 ## Se este projeto te ajudou, deixe uma estrela!
 
-https://github.com/joeldimais/esp32-github-cracha
+https://github.com/joelcaua02enzo/esp32-github-cracha
