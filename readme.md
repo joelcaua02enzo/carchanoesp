@@ -85,4 +85,4 @@ Agradecimentos a Bodmer pela biblioteca TFT_eSPI, a Paul Stoffregen pela XPT2046
 
 ## Se este projeto te ajudou, deixe uma estrela!
 
-https://github.com/joelcaua02enzo/esp32-github-cracha
+https://github.com/joelcaua02enzo/carchanoesp
